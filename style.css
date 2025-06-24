@@ -350,8 +350,6 @@ i .form {
 .services {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: center;
     align-items: center;
     padding: 40px 20px;
     text-align: center;
